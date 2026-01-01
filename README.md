@@ -1,0 +1,2 @@
+# PotPlayerPlaylistGenerator
+搜尋指定資料夾內的檔案 給potplay撥放清單
